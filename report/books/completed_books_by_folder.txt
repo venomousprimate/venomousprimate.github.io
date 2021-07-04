@@ -1,4 +1,4 @@
-Completed books sorted by folder - 07/03/2021 22:45
+Completed books sorted by folder - 07/03/2021 22:52
 -----------------------------------------------------
  
 Completed in 2021 : 42 books - 401H 54M / 16D 17H 54M
@@ -468,5 +468,5 @@ Average completed per year: 44.1 titles - 491H 40M / 20D 11H 40M
 Remaining years of reserve material at average yearly pace: 18.0
 Remaining years of reserve material at current year pace: 9.6
  
-Total time to process all reports: 00:00:03.286 (3.286 seconds)
-Total time including file writes: 00:00:03.286 (3.286 seconds)
+Total time to process all reports: 00:00:02.158 (2.158 seconds)
+Total time including file writes: 00:00:02.159 (2.159 seconds)
