@@ -1,4 +1,4 @@
-Reserved books sorted by name - 07/03/2021 22:43
+Reserved books sorted by name - 07/03/2021 22:45
 -----------------------------------------------------
  
 796 books
@@ -838,5 +838,5 @@ Average completed per year: 44.1 titles - 491H 40M / 20D 11H 40M
 Remaining years of reserve material at average yearly pace: 18.0
 Remaining years of reserve material at current year pace: 9.6
  
-Total time to process all reports: 00:00:03.372 (3.372 seconds)
-Total time including file writes: 00:00:03.372 (3.372 seconds)
+Total time to process all reports: 00:00:03.286 (3.286 seconds)
+Total time including file writes: 00:00:03.286 (3.286 seconds)
