@@ -1,4 +1,4 @@
-Completed books sorted by name - 07/05/2021 06:00
+Completed books sorted by name - 07/06/2021 06:00
 -----------------------------------------------------
  
 375 books
@@ -413,9 +413,9 @@ No duplicate records found
  
 Total completed since 01/01/2013: 375 titles - 4179H 42M / 174D 3H 42M
 Total remaining in queue and reserve: 796 titles - 9968H 26M / 415D 8H 26M
-Average completed per year: 44.1 titles - 491H 21M / 20D 11H 21M
+Average completed per year: 44.1 titles - 491H 11M / 20D 11H 11M
 Remaining years of reserve material at average yearly pace: 18.0
 Remaining years of reserve material at current year pace: 9.7
  
-Total time to process all reports: 00:00:02.292 (2.292 seconds)
-Total time including file writes: 00:00:02.292 (2.292 seconds)
+Total time to process all reports: 00:00:01.764 (1.764 seconds)
+Total time including file writes: 00:00:01.764 (1.764 seconds)
