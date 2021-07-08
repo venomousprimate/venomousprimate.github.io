@@ -1,7 +1,7 @@
-Reserved books sorted by length - 07/07/2021 06:00
+Reserved books sorted by length - 07/08/2021 06:00
 -----------------------------------------------------
  
-799 books
+798 books
  
 Art of War - Sun Tzu - 1H 16M (Queue - Audible Audiobooks)
 Fantastic Beasts and Where to Find Them - J. K. Rowling - 1H 54M (Queue - Current Audiobooks)
@@ -138,7 +138,7 @@ Pern 9-03 - Dragonsong - 7H 11M (Book Reserve - Audiobooks)
 Berserker 4 - Berserker Man - 7H 12M (Book Reserve - Audiobooks)
 Where Good Ideas Come From - Steven Johnson - 7H 12M (Queue - Current Audiobooks)
 The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making - Catherynne M. Valente - 7H 12M (Book Reserve - Audiobooks)
-The Batman Who Laughs - 7H 13M (Book Reserve - Comic Trades)
+Dark Nights Death Metal Deluxe Edition - 7H 13M (Book Reserve - Comic Trades)
 How to Avoid a Climate Disaster - Bill Gates - 7H 13M (Queue - Current Audiobooks)
 The Chronicles of Amber 07 - Blood of Amber - 7H 18M (Queue - Current Audiobooks)
 Einstein - Walter Isaacson - 7H 20M (Queue - Current Audiobooks)
@@ -713,7 +713,7 @@ Summary Report
 Folder totals
 Queue - Current Audiobooks - 169 books - 2212H 54M / 92D 4H 54M
 Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
-Completed in 2021 - 42 books - 401H 54M / 16D 17H 54M
+Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
 Completed in 2019 - 52 books - 555H 25M / 23D 3H 25M
 Completed in 2018 - 29 books - 286H 52M / 11D 22H 52M
@@ -723,7 +723,7 @@ Completed in 2015 - 37 books - 457H 16M / 19D 1H 16M
 Completed in 2014 - 27 books - 479H 44M / 19D 23H 44M
 Completed in 2013 - 38 books - 436H 51M / 18D 4H 51M
 Book Reserve - Physical and Kindle Books - 15 books - 190H 35M / 7D 22H 35M
-Book Reserve - Comic Trades - 117 books - 725H 16M / 30D 5H 16M
+Book Reserve - Comic Trades - 116 books - 718H 3M / 29D 22H 3M
 Book Reserve - Audiobooks (Need new source) - 24 books - 356H 45M / 14D 20H 45M
 Book Reserve - Audiobooks - 440 books - 5988H 58M / 249D 12H 58M
  
@@ -733,17 +733,17 @@ Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
 203 queued items: 2736H 57M / 114D 0H 57M
 0 reserve titles are marked as high priority
-25.41% of reserve items are queued
+25.44% of reserve items are queued
  
 All books included in this report: 1174 titles - 14178H 14M / 590D 18H 14M
 Records not found in the lookup file: 0
 No duplicate records found
  
-Total completed since 01/01/2013: 375 titles - 4179H 42M / 174D 3H 42M
-Total remaining in queue and reserve: 799 titles - 9998H 31M / 416D 14H 31M
-Average completed per year: 44.1 titles - 491H 2M / 20D 11H 2M
+Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
+Total remaining in queue and reserve: 798 titles - 9991H 18M / 416D 7H 18M
+Average completed per year: 44.2 titles - 491H 43M / 20D 11H 43M
 Remaining years of reserve material at average yearly pace: 18.1
-Remaining years of reserve material at current year pace: 9.9
+Remaining years of reserve material at current year pace: 9.6
  
-Total time to process all reports: 00:00:03.972 (3.972 seconds)
-Total time including file writes: 00:00:03.973 (3.973 seconds)
+Total time to process all reports: 00:00:02.617 (2.617 seconds)
+Total time including file writes: 00:00:02.618 (2.618 seconds)
