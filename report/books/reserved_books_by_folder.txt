@@ -1,4 +1,4 @@
-Reserved books sorted by folder - 07/14/2021 06:00
+Reserved books sorted by folder - 07/15/2021 06:00
 -----------------------------------------------------
  
 Queue - Current Audiobooks : 169 books - 2212H 54M / 92D 4H 54M
@@ -857,9 +857,9 @@ No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
 Total remaining in queue and reserve: 798 titles - 9991H 18M / 416D 7H 18M
-Average completed per year: 44.1 titles - 490H 46M / 20D 10H 46M
+Average completed per year: 44.1 titles - 490H 37M / 20D 10H 37M
 Remaining years of reserve material at average yearly pace: 18.1
 Remaining years of reserve material at current year pace: 10.0
  
-Total time to process all reports: 00:00:01.624 (1.624 seconds)
-Total time including file writes: 00:00:01.624 (1.624 seconds)
+Total time to process all reports: 00:00:01.631 (1.631 seconds)
+Total time including file writes: 00:00:01.631 (1.631 seconds)
