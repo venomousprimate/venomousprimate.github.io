@@ -1,4 +1,4 @@
-Reserved books sorted by folder - 07/15/2021 06:00
+Reserved books sorted by folder - 07/16/2021 06:00
 -----------------------------------------------------
  
 Queue - Current Audiobooks : 169 books - 2212H 54M / 92D 4H 54M
@@ -231,8 +231,8 @@ The Time Traveler's Almanac - A Time Travel Anthology - Jeff VanderMeer - 29H 53
 Tuf Voyaging - George R. R. Martin - 13H 56M
 -----------------------------------------------------
  
-Book Reserve - Comic Trades : 116 books - 718H 3M / 29D 22H 3M
-Total Comic Trades : 116
+Book Reserve - Comic Trades : 119 books - 738H 13M / 30D 18H 13M
+Total Comic Trades : 119
  
 Absolute Carnage - 6H 13M
 Action Comics 1000 - 4H 58M
@@ -294,6 +294,7 @@ Infamous Iron Man vol 2 - 4H 14M
 Invincible Iron Man vol 1 - 4H 14M
 Iron Man 2020 Robot Revolution - 4H 14M
 Iron Man Extremis - 4H 58M
+Journey into Mystery by Kieron Gillen The Complete Collection Volume 1 - 12H 12M
 Justice League Darkseid War - 11H 42M
 King in Black - 4H 28M
 Lobo Portrait of a Bastich - 6H 28M
@@ -346,6 +347,8 @@ Umbrella Academy vol 2 - 5H 58M
 Uncanny X-force vol 1 - 16H 11M
 Uncanny X-force vol 2 - 12H 42M
 Venomverse - 3H 59M
+Vote Loki - 3H 44M
+War Machine - Volume 1 Iron Heart - 4H 14M
 White Sand vol 2 - Brandon Sanderson - 4H 58M
 Wolverine - Black, White & Blood Treasury Edition - 4H 14M
 Wonder Woman Vol. 2 Year One (Rebirth) - 5H 13M
@@ -839,7 +842,7 @@ Completed in 2015 - 37 books - 457H 16M / 19D 1H 16M
 Completed in 2014 - 27 books - 479H 44M / 19D 23H 44M
 Completed in 2013 - 38 books - 436H 51M / 18D 4H 51M
 Book Reserve - Physical and Kindle Books - 15 books - 190H 35M / 7D 22H 35M
-Book Reserve - Comic Trades - 116 books - 718H 3M / 29D 22H 3M
+Book Reserve - Comic Trades - 119 books - 738H 13M / 30D 18H 13M
 Book Reserve - Audiobooks (Need new source) - 24 books - 356H 45M / 14D 20H 45M
 Book Reserve - Audiobooks - 440 books - 5988H 58M / 249D 12H 58M
  
@@ -849,17 +852,17 @@ Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
 203 queued items: 2736H 57M / 114D 0H 57M
 0 reserve titles are marked as high priority
-25.44% of reserve items are queued
+25.34% of reserve items are queued
  
-All books included in this report: 1174 titles - 14178H 14M / 590D 18H 14M
-Records not found in the lookup file: 0
+All books included in this report: 1177 titles - 14198H 24M / 591D 14H 24M
+Records not found in the lookup file: 3
 No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 798 titles - 9991H 18M / 416D 7H 18M
-Average completed per year: 44.1 titles - 490H 37M / 20D 10H 37M
-Remaining years of reserve material at average yearly pace: 18.1
-Remaining years of reserve material at current year pace: 10.0
+Total remaining in queue and reserve: 801 titles - 10011H 28M / 417D 3H 28M
+Average completed per year: 44.0 titles - 490H 28M / 20D 10H 28M
+Remaining years of reserve material at average yearly pace: 18.2
+Remaining years of reserve material at current year pace: 10.1
  
-Total time to process all reports: 00:00:01.631 (1.631 seconds)
-Total time including file writes: 00:00:01.631 (1.631 seconds)
+Total time to process all reports: 00:00:01.532 (1.532 seconds)
+Total time including file writes: 00:00:01.532 (1.532 seconds)

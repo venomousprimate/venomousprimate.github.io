@@ -1,7 +1,7 @@
-Reserved books sorted by name - 07/15/2021 06:00
+Reserved books sorted by name - 07/16/2021 06:00
 -----------------------------------------------------
  
-798 books
+801 books
  
 1-2-3 Magic - Thomas Phelan - 7H 3M (Book Reserve - Audiobooks)
 112263 - Stephen King - 30H 46M (Queue - Current Audiobooks)
@@ -312,6 +312,7 @@ It Can't Happen Here - Sinclair Lewis - 14H 32M (Book Reserve - Audiobooks)
 It Was All a Lie - Stuart Stevens - 5H 39M (Book Reserve - Audiobooks)
 Job - Robert A. Heinlein - 14H 11M (Book Reserve - Audiobooks)
 Jonathan Strange & Mr. Norrell - Susanna Clarke - 32H 29M (Book Reserve - Audiobooks)
+Journey into Mystery by Kieron Gillen The Complete Collection Volume 1 - 12H 12M (Book Reserve - Comic Trades)
 Journey to the Center of the Earth - Jules Verne - 10H 21M (Book Reserve - Audiobooks)
 Julian Comstock - Robert Charles Wilson - 21H 6M (Book Reserve - Audiobooks)
 Jurassic Park - Michael Crichton - 15H 10M (Queue - Audible Audiobooks)
@@ -759,6 +760,8 @@ VALIS - Philip K Dick - 8H 44M (Book Reserve - Audiobooks (Need new source))
 Venomverse - 3H 59M (Book Reserve - Comic Trades)
 Venus Plus X - Theodore Sturgeon - 6H 28M (Book Reserve - Audiobooks)
 VocabuLearn® German Complete - 9H 2M (Queue - Current Audiobooks)
+Vote Loki - 3H 44M (Book Reserve - Comic Trades)
+War Machine - Volume 1 Iron Heart - 4H 14M (Book Reserve - Comic Trades)
 Way Station (Here Gather the Stars) - Clifford Simak - 7H 1M (Book Reserve - Audiobooks (Need new source))
 Wayfarers 1 - The Long Way to a Small, Angry Planet - Becky Chambers - 14H 27M (Queue - Current Audiobooks)
 Wayfarers 2 - A Closed and Common Orbit - Becky Chambers - 11H 33M (Book Reserve - Audiobooks)
@@ -818,7 +821,7 @@ Completed in 2015 - 37 books - 457H 16M / 19D 1H 16M
 Completed in 2014 - 27 books - 479H 44M / 19D 23H 44M
 Completed in 2013 - 38 books - 436H 51M / 18D 4H 51M
 Book Reserve - Physical and Kindle Books - 15 books - 190H 35M / 7D 22H 35M
-Book Reserve - Comic Trades - 116 books - 718H 3M / 29D 22H 3M
+Book Reserve - Comic Trades - 119 books - 738H 13M / 30D 18H 13M
 Book Reserve - Audiobooks (Need new source) - 24 books - 356H 45M / 14D 20H 45M
 Book Reserve - Audiobooks - 440 books - 5988H 58M / 249D 12H 58M
  
@@ -828,17 +831,17 @@ Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
 203 queued items: 2736H 57M / 114D 0H 57M
 0 reserve titles are marked as high priority
-25.44% of reserve items are queued
+25.34% of reserve items are queued
  
-All books included in this report: 1174 titles - 14178H 14M / 590D 18H 14M
-Records not found in the lookup file: 0
+All books included in this report: 1177 titles - 14198H 24M / 591D 14H 24M
+Records not found in the lookup file: 3
 No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 798 titles - 9991H 18M / 416D 7H 18M
-Average completed per year: 44.1 titles - 490H 37M / 20D 10H 37M
-Remaining years of reserve material at average yearly pace: 18.1
-Remaining years of reserve material at current year pace: 10.0
+Total remaining in queue and reserve: 801 titles - 10011H 28M / 417D 3H 28M
+Average completed per year: 44.0 titles - 490H 28M / 20D 10H 28M
+Remaining years of reserve material at average yearly pace: 18.2
+Remaining years of reserve material at current year pace: 10.1
  
-Total time to process all reports: 00:00:01.631 (1.631 seconds)
-Total time including file writes: 00:00:01.631 (1.631 seconds)
+Total time to process all reports: 00:00:01.532 (1.532 seconds)
+Total time including file writes: 00:00:01.532 (1.532 seconds)
