@@ -1,7 +1,7 @@
-Reserved books sorted by length - 07/16/2021 06:00
+Reserved books sorted by length - 07/17/2021 06:00
 -----------------------------------------------------
  
-801 books
+802 books
  
 Art of War - Sun Tzu - 1H 16M (Queue - Audible Audiobooks)
 Fantastic Beasts and Where to Find Them - J. K. Rowling - 1H 54M (Queue - Current Audiobooks)
@@ -72,6 +72,7 @@ Cosmic Trilogy 1 - Out of the Silent Planet - C. S. Lewis - 5H 28M (Queue - Curr
 Time Quartet 2 - A Wind in the Door - Madeleine L'engle - 5H 29M (Book Reserve - Audiobooks)
 The God Equation - Michio Kaku - 5H 32M (Book Reserve - Audiobooks)
 We Have Always Lived in the Castle - Shirley Jackson - 5H 34M (Queue - Current Audiobooks)
+Diana and the Underworld Odyssey - Aisha Saeed - 5H 36M (Queue - Current Audiobooks)
 Atomic Habits - James Clear - 5H 36M (Book Reserve - Audiobooks)
 Raising Good Humans - Carla Naumburg - 5H 38M (Queue - Current Audiobooks)
 It Was All a Lie - Stuart Stevens - 5H 39M (Book Reserve - Audiobooks)
@@ -712,7 +713,7 @@ Shogun - James Clavell - 53H 48M (Queue - Current Audiobooks)
 Summary Report
  
 Folder totals
-Queue - Current Audiobooks - 169 books - 2212H 54M / 92D 4H 54M
+Queue - Current Audiobooks - 170 books - 2218H 30M / 92D 10H 30M
 Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
 Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
@@ -732,19 +733,19 @@ Records
 Most books read in a year: 95 completed in 2020
 Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
-203 queued items: 2736H 57M / 114D 0H 57M
+204 queued items: 2742H 33M / 114D 6H 33M
 0 reserve titles are marked as high priority
-25.34% of reserve items are queued
+25.44% of reserve items are queued
  
-All books included in this report: 1177 titles - 14198H 24M / 591D 14H 24M
-Records not found in the lookup file: 3
+All books included in this report: 1178 titles - 14204H 0M / 591D 20H 0M
+Records not found in the lookup file: 1
 No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 801 titles - 10011H 28M / 417D 3H 28M
-Average completed per year: 44.0 titles - 490H 28M / 20D 10H 28M
+Total remaining in queue and reserve: 802 titles - 10017H 4M / 417D 9H 4M
+Average completed per year: 44.0 titles - 490H 18M / 20D 10H 18M
 Remaining years of reserve material at average yearly pace: 18.2
-Remaining years of reserve material at current year pace: 10.1
+Remaining years of reserve material at current year pace: 10.2
  
-Total time to process all reports: 00:00:01.532 (1.532 seconds)
-Total time including file writes: 00:00:01.532 (1.532 seconds)
+Total time to process all reports: 00:00:01.806 (1.806 seconds)
+Total time including file writes: 00:00:01.806 (1.806 seconds)

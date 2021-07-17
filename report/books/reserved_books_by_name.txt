@@ -1,7 +1,7 @@
-Reserved books sorted by name - 07/16/2021 06:00
+Reserved books sorted by name - 07/17/2021 06:00
 -----------------------------------------------------
  
-801 books
+802 books
  
 1-2-3 Magic - Thomas Phelan - 7H 3M (Book Reserve - Audiobooks)
 112263 - Stephen King - 30H 46M (Queue - Current Audiobooks)
@@ -172,6 +172,7 @@ Desperation - Stephen King - 21H 23M (Book Reserve - Audiobooks)
 Despicable Deadpool vol 2 - 3H 29M (Book Reserve - Comic Trades)
 Despicable Deadpool vol 3 - 3H 29M (Book Reserve - Comic Trades)
 Detective Comics 1000 - 5H 28M (Book Reserve - Comic Trades)
+Diana and the Underworld Odyssey - Aisha Saeed - 5H 36M (Queue - Current Audiobooks)
 Dirk Gently 3 - The Salmon of Doubt - Douglas Adams - 8H 6M (Queue - Current Audiobooks)
 Discworld - Science of Discworld 1 - The Science of Discworld - Terry Pratchett - 13H 52M (Book Reserve - Audiobooks)
 Discworld - Science of Discworld 2 - The Globe - Terry Pratchett - 12H 50M (Book Reserve - Audiobooks)
@@ -809,7 +810,7 @@ Zones of Thought 3 - The Children of the Sky - Vernor Vinge - 26H 56M (Book Rese
 Summary Report
  
 Folder totals
-Queue - Current Audiobooks - 169 books - 2212H 54M / 92D 4H 54M
+Queue - Current Audiobooks - 170 books - 2218H 30M / 92D 10H 30M
 Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
 Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
@@ -829,19 +830,19 @@ Records
 Most books read in a year: 95 completed in 2020
 Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
-203 queued items: 2736H 57M / 114D 0H 57M
+204 queued items: 2742H 33M / 114D 6H 33M
 0 reserve titles are marked as high priority
-25.34% of reserve items are queued
+25.44% of reserve items are queued
  
-All books included in this report: 1177 titles - 14198H 24M / 591D 14H 24M
-Records not found in the lookup file: 3
+All books included in this report: 1178 titles - 14204H 0M / 591D 20H 0M
+Records not found in the lookup file: 1
 No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 801 titles - 10011H 28M / 417D 3H 28M
-Average completed per year: 44.0 titles - 490H 28M / 20D 10H 28M
+Total remaining in queue and reserve: 802 titles - 10017H 4M / 417D 9H 4M
+Average completed per year: 44.0 titles - 490H 18M / 20D 10H 18M
 Remaining years of reserve material at average yearly pace: 18.2
-Remaining years of reserve material at current year pace: 10.1
+Remaining years of reserve material at current year pace: 10.2
  
-Total time to process all reports: 00:00:01.532 (1.532 seconds)
-Total time including file writes: 00:00:01.532 (1.532 seconds)
+Total time to process all reports: 00:00:01.806 (1.806 seconds)
+Total time including file writes: 00:00:01.806 (1.806 seconds)
