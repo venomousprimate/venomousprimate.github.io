@@ -1,4 +1,4 @@
-Completed books sorted by name - 07/17/2021 06:00
+Completed books sorted by name - 07/18/2021 06:00
 -----------------------------------------------------
  
 376 books
@@ -409,14 +409,14 @@ Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
 25.44% of reserve items are queued
  
 All books included in this report: 1178 titles - 14204H 0M / 591D 20H 0M
-Records not found in the lookup file: 1
+Records not found in the lookup file: 0
 No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
 Total remaining in queue and reserve: 802 titles - 10017H 4M / 417D 9H 4M
-Average completed per year: 44.0 titles - 490H 18M / 20D 10H 18M
+Average completed per year: 44.0 titles - 490H 9M / 20D 10H 9M
 Remaining years of reserve material at average yearly pace: 18.2
-Remaining years of reserve material at current year pace: 10.2
+Remaining years of reserve material at current year pace: 10.3
  
-Total time to process all reports: 00:00:01.806 (1.806 seconds)
-Total time including file writes: 00:00:01.806 (1.806 seconds)
+Total time to process all reports: 00:00:01.609 (1.609 seconds)
+Total time including file writes: 00:00:01.609 (1.609 seconds)
