@@ -1,7 +1,7 @@
-Reserved books sorted by length - 07/19/2021 06:00
+Reserved books sorted by length - 07/21/2021 06:00
 -----------------------------------------------------
  
-802 books
+805 books
  
 Art of War - Sun Tzu - 1H 16M (Queue - Audible Audiobooks)
 Fantastic Beasts and Where to Find Them - J. K. Rowling - 1H 54M (Queue - Current Audiobooks)
@@ -120,6 +120,7 @@ The Door Into Summer - Robert A Heinlein - 6H 48M (Book Reserve - Audiobooks (Ne
 3001 - Arthur C. Clarke - 6H 48M (Book Reserve - Audiobooks)
 The Chronicles of Amber 10 - Prince of Chaos - 6H 49M (Book Reserve - Audiobooks)
 The Chronicles of Amber 08 - Sign of Chaos - 6H 53M (Queue - Current Audiobooks)
+We - Yevgeny Zamyatin - 6H 53M (Queue - Current Audiobooks)
 Isaac Newton - James Gleick - 6H 53M (Queue - Current Audiobooks)
 Wintering - Katherine May - 6H 55M (Book Reserve - Audiobooks)
 Artemis Fowl 3 - The Eternity Code - 6H 56M (Book Reserve - Audiobooks)
@@ -190,6 +191,7 @@ Earthsea 1 - A Wizard of Earthsea - Ursula K. Le Guin - 8H 13M (Book Reserve - P
 The Integral Trees - Larry Niven - 8H 13M (Book Reserve - Audiobooks)
 The Witness for the Dead - Katherine Addison - 8H 14M (Queue - Current Audiobooks)
 The End of Eternity - Isaac Asimov - 8H 14M (Book Reserve - Audiobooks)
+How to Raise Kids Who Aren't Assholes - Melinda Wenner Moyer - 8H 19M (Queue - Current Audiobooks)
 No-Drama Discipline - Daniel J. Siegel - 8H 21M (Queue - Current Audiobooks)
 The Pleasure of Finding Things Out - Richard P. Feynman - 8H 23M (Queue - Audible Audiobooks)
 Skin in the Game - Nassim Nicholas Taleb - 8H 23M (Queue - Current Audiobooks)
@@ -313,6 +315,7 @@ CryoBurn - Lois McMaster Bujold - 10H 36M (Book Reserve - Audiobooks)
 Skylark Duquesne - E.E. Doc Smith - 10H 38M (Book Reserve - Audiobooks)
 The Fall of Shannara 1 - The Black Elfstone - Terry Brooks - 10H 40M (Book Reserve - Audiobooks)
 Artemisa - Andy Weir - 10H 41M (Book Reserve - Audiobooks)
+Quiet - The Power of Introverts in a World That Can't Stop Talking - Susan Cain - 10H 42M (Queue - Current Audiobooks)
 Discworld 21 - Jingo - 10H 44M (Queue - Current Audiobooks)
 The Dog Stars - 10H 44M (Book Reserve - Audiobooks)
 Discworld 29 - Night Watch - 10H 45M (Book Reserve - Audiobooks)
@@ -713,7 +716,7 @@ Shogun - James Clavell - 53H 48M (Queue - Current Audiobooks)
 Summary Report
  
 Folder totals
-Queue - Current Audiobooks - 170 books - 2218H 30M / 92D 10H 30M
+Queue - Current Audiobooks - 173 books - 2244H 26M / 93D 12H 26M
 Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
 Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
@@ -733,19 +736,19 @@ Records
 Most books read in a year: 95 completed in 2020
 Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
-204 queued items: 2742H 33M / 114D 6H 33M
+207 queued items: 2768H 29M / 115D 8H 29M
 0 reserve titles are marked as high priority
-25.44% of reserve items are queued
+25.71% of reserve items are queued
  
-All books included in this report: 1178 titles - 14204H 0M / 591D 20H 0M
-Records not found in the lookup file: 0
+All books included in this report: 1181 titles - 14229H 56M / 592D 21H 56M
+Records not found in the lookup file: 3
 No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 802 titles - 10017H 4M / 417D 9H 4M
-Average completed per year: 44.0 titles - 489H 59M / 20D 9H 59M
-Remaining years of reserve material at average yearly pace: 18.2
-Remaining years of reserve material at current year pace: 10.3
+Total remaining in queue and reserve: 805 titles - 10043H 0M / 418D 11H 0M
+Average completed per year: 44.0 titles - 489H 40M / 20D 9H 40M
+Remaining years of reserve material at average yearly pace: 18.3
+Remaining years of reserve material at current year pace: 10.5
  
-Total time to process all reports: 00:00:01.609 (1.609 seconds)
-Total time including file writes: 00:00:01..61 (1.61 seconds)
+Total time to process all reports: 00:00:12.005 (12.005 seconds)
+Total time including file writes: 00:00:12.005 (12.005 seconds)

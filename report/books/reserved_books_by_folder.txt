@@ -1,7 +1,7 @@
-Reserved books sorted by folder - 07/19/2021 06:00
+Reserved books sorted by folder - 07/21/2021 06:00
 -----------------------------------------------------
  
-Queue - Current Audiobooks : 170 books - 2218H 30M / 92D 10H 30M
+Queue - Current Audiobooks : 173 books - 2244H 26M / 93D 12H 26M
  
 112263 - Stephen King - 30H 46M
 13 Things Mentally Strong Parents Don't Do - Amy Morin - 10H 13M
@@ -56,6 +56,7 @@ How Democracies Die - Steven Levitsky - 8H 27M
 How to Avoid a Climate Disaster - Bill Gates - 7H 13M
 How to Decide - Annie Duke - 6H 41M
 How to Do Nothing - Jenny Odell - 8H 12M
+How to Raise Kids Who Aren't Assholes - Melinda Wenner Moyer - 8H 19M
 HP 5 - Harry Potter and the Order of the Phoenix - J.K. Rowling - 27H 10M
 HP 6 - Harry Potter and the Half-Blood Prince - J.K. Rowling - 19H 1M
 HP 7 - Harry Potter and the Deathly Hallows - J.K. Rowling - 21H 42M
@@ -84,6 +85,7 @@ On Writing - Stephen King - 8H 2M
 Pern 1-01 - Dragonsdawn - 14H 9M
 Pillars of the Earth 1 - The Pillars of the Earth - Ken Follett - 41H 8M
 Prepared - Diane Tavenner - 7H 24M
+Quiet - The Power of Introverts in a World That Can't Stop Talking - Susan Cain - 10H 42M
 Raising Good Humans - Carla Naumburg - 5H 38M
 Ready Player Two - Ernest Cline - 13H 50M
 Recursion - Blake Crouch - 10H 50M
@@ -162,6 +164,7 @@ Unwinding Anxiety - Judson Brewer - 7H 23M
 Uprooted - Naomi Novik - 17H 49M
 VocabuLearn® German Complete - 9H 2M
 Wayfarers 1 - The Long Way to a Small, Angry Planet - Becky Chambers - 14H 27M
+We - Yevgeny Zamyatin - 6H 53M
 We Have Always Lived in the Castle - Shirley Jackson - 5H 34M
 What the Dog Saw - Malcolm Gladwell - 12H 52M
 Where Do We Go From Here - Martin Luther King - 8H 40M
@@ -831,7 +834,7 @@ Zones of Thought 3 - The Children of the Sky - Vernor Vinge - 26H 56M
 Summary Report
  
 Folder totals
-Queue - Current Audiobooks - 170 books - 2218H 30M / 92D 10H 30M
+Queue - Current Audiobooks - 173 books - 2244H 26M / 93D 12H 26M
 Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
 Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
@@ -851,19 +854,19 @@ Records
 Most books read in a year: 95 completed in 2020
 Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
-204 queued items: 2742H 33M / 114D 6H 33M
+207 queued items: 2768H 29M / 115D 8H 29M
 0 reserve titles are marked as high priority
-25.44% of reserve items are queued
+25.71% of reserve items are queued
  
-All books included in this report: 1178 titles - 14204H 0M / 591D 20H 0M
-Records not found in the lookup file: 0
+All books included in this report: 1181 titles - 14229H 56M / 592D 21H 56M
+Records not found in the lookup file: 3
 No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 802 titles - 10017H 4M / 417D 9H 4M
-Average completed per year: 44.0 titles - 489H 59M / 20D 9H 59M
-Remaining years of reserve material at average yearly pace: 18.2
-Remaining years of reserve material at current year pace: 10.3
+Total remaining in queue and reserve: 805 titles - 10043H 0M / 418D 11H 0M
+Average completed per year: 44.0 titles - 489H 40M / 20D 9H 40M
+Remaining years of reserve material at average yearly pace: 18.3
+Remaining years of reserve material at current year pace: 10.5
  
-Total time to process all reports: 00:00:01.609 (1.609 seconds)
-Total time including file writes: 00:00:01..61 (1.61 seconds)
+Total time to process all reports: 00:00:12.005 (12.005 seconds)
+Total time including file writes: 00:00:12.005 (12.005 seconds)

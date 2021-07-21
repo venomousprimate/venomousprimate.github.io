@@ -1,4 +1,4 @@
-Completed books sorted by name - 07/19/2021 06:00
+Completed books sorted by name - 07/21/2021 06:00
 -----------------------------------------------------
  
 376 books
@@ -384,7 +384,7 @@ Zones of Thought 1 - A Fire Upon the Deep - Vernor Vinge - 21H 43M (Completed in
 Summary Report
  
 Folder totals
-Queue - Current Audiobooks - 170 books - 2218H 30M / 92D 10H 30M
+Queue - Current Audiobooks - 173 books - 2244H 26M / 93D 12H 26M
 Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
 Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
@@ -404,19 +404,19 @@ Records
 Most books read in a year: 95 completed in 2020
 Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
-204 queued items: 2742H 33M / 114D 6H 33M
+207 queued items: 2768H 29M / 115D 8H 29M
 0 reserve titles are marked as high priority
-25.44% of reserve items are queued
+25.71% of reserve items are queued
  
-All books included in this report: 1178 titles - 14204H 0M / 591D 20H 0M
-Records not found in the lookup file: 0
+All books included in this report: 1181 titles - 14229H 56M / 592D 21H 56M
+Records not found in the lookup file: 3
 No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 802 titles - 10017H 4M / 417D 9H 4M
-Average completed per year: 44.0 titles - 489H 59M / 20D 9H 59M
-Remaining years of reserve material at average yearly pace: 18.2
-Remaining years of reserve material at current year pace: 10.3
+Total remaining in queue and reserve: 805 titles - 10043H 0M / 418D 11H 0M
+Average completed per year: 44.0 titles - 489H 40M / 20D 9H 40M
+Remaining years of reserve material at average yearly pace: 18.3
+Remaining years of reserve material at current year pace: 10.5
  
-Total time to process all reports: 00:00:01.609 (1.609 seconds)
-Total time including file writes: 00:00:01..61 (1.61 seconds)
+Total time to process all reports: 00:00:12.005 (12.005 seconds)
+Total time including file writes: 00:00:12.005 (12.005 seconds)
