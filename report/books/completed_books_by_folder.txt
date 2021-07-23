@@ -1,11 +1,11 @@
-Completed books sorted by folder - 07/22/2021 06:00
+Completed books sorted by folder - 07/23/2021 06:00
 -----------------------------------------------------
  
 Completed in 2021 : 43 books - 409H 7M / 17D 1H 7M
 Total Comic Trades : 17
 Average book length : 9H 30M
-Hours read per week : 14H 6M
-On pace to complete 77 books (736H 4M / 30D 16H 4M) by the end of 2021.
+Hours read per week : 14H 2M
+On pace to complete 76 books (732H 25M / 30D 12H 25M) by the end of 2021.
  
 21 Lessons for the 21st Century - Yuval Noah Harari - 11H 44M
 A People's History of the United States - Howard Zinn - 34H 19M
@@ -467,9 +467,9 @@ No duplicate records found
  
 Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
 Total remaining in queue and reserve: 805 titles - 10043H 0M / 418D 11H 0M
-Average completed per year: 44.0 titles - 489H 31M / 20D 9H 31M
+Average completed per year: 43.9 titles - 489H 22M / 20D 9H 22M
 Remaining years of reserve material at average yearly pace: 18.3
-Remaining years of reserve material at current year pace: 10.5
+Remaining years of reserve material at current year pace: 10.6
  
-Total time to process all reports: 00:00:01.638 (1.638 seconds)
-Total time including file writes: 00:00:01.638 (1.638 seconds)
+Total time to process all reports: 00:00:01.513 (1.513 seconds)
+Total time including file writes: 00:00:01.513 (1.513 seconds)
