@@ -1,4 +1,4 @@
-Reserved books sorted by folder - 07/26/2021 06:00
+Reserved books sorted by folder - 07/27/2021 06:00
 -----------------------------------------------------
  
 Queue - Current Audiobooks : 173 books - 2244H 26M / 93D 12H 26M
@@ -178,10 +178,9 @@ Your Brain at Work - David Rock - 9H 45M
 Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig - 15H 15M
 -----------------------------------------------------
  
-Queue - Audible Audiobooks : 34 books - 524H 3M / 21D 20H 3M
+Queue - Audible Audiobooks : 33 books - 507H 6M / 21D 3H 6M
  
 Art of War - Sun Tzu - 1H 16M
-Bobiverse 4 - Heaven's River - Dennis E. Taylor - 16H 57M
 Children of Time 1 - Children of Time - Adrian Tchaikovsky - 16H 31M
 Eon - Greg Bear - 17H 4M
 Expeditionary Force 1 - Columbus Day - Craig Alanson - 16H 23M
@@ -835,8 +834,8 @@ Summary Report
  
 Folder totals
 Queue - Current Audiobooks - 173 books - 2244H 26M / 93D 12H 26M
-Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
-Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
+Queue - Audible Audiobooks - 33 books - 507H 6M / 21D 3H 6M
+Completed in 2021 - 44 books - 426H 4M / 17D 18H 4M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
 Completed in 2019 - 52 books - 555H 25M / 23D 3H 25M
 Completed in 2018 - 29 books - 286H 52M / 11D 22H 52M
@@ -854,19 +853,19 @@ Records
 Most books read in a year: 95 completed in 2020
 Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
-207 queued items: 2768H 29M / 115D 8H 29M
+206 queued items: 2751H 32M / 114D 15H 32M
 0 reserve titles are marked as high priority
-25.71% of reserve items are queued
+25.62% of reserve items are queued
  
 All books included in this report: 1181 titles - 14229H 56M / 592D 21H 56M
 Records not found in the lookup file: 0
 No duplicate records found
  
-Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 805 titles - 10043H 0M / 418D 11H 0M
-Average completed per year: 43.9 titles - 488H 53M / 20D 8H 53M
+Total completed since 01/01/2013: 377 titles - 4203H 52M / 175D 3H 52M
+Total remaining in queue and reserve: 804 titles - 10026H 3M / 417D 18H 3M
+Average completed per year: 44.0 titles - 490H 43M / 20D 10H 43M
 Remaining years of reserve material at average yearly pace: 18.3
-Remaining years of reserve material at current year pace: 10.7
+Remaining years of reserve material at current year pace: 10.4
  
-Total time to process all reports: 00:00:01.551 (1.551 seconds)
-Total time including file writes: 00:00:01.551 (1.551 seconds)
+Total time to process all reports: 00:00:07.939 (7.939 seconds)
+Total time including file writes: 00:00:07..94 (7.94 seconds)

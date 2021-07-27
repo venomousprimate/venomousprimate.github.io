@@ -1,7 +1,7 @@
-Reserved books sorted by length - 07/26/2021 06:00
+Reserved books sorted by length - 07/27/2021 06:00
 -----------------------------------------------------
  
-805 books
+804 books
  
 Art of War - Sun Tzu - 1H 16M (Queue - Audible Audiobooks)
 Fantastic Beasts and Where to Find Them - J. K. Rowling - 1H 54M (Queue - Current Audiobooks)
@@ -545,7 +545,6 @@ Dune 6 - Chapterhouse Dune  - Frank Herbert - 16H 47M (Book Reserve - Audiobooks
 Parasitology 2 - Symbiont - Mira Grant - 16H 52M (Book Reserve - Audiobooks)
 Locked Tomb 1 - Gideon the Ninth - Tamsyn Muir - 16H 55M (Queue - Current Audiobooks)
 The Book of Swords - George R. R. Martin, Robin Hobb, Scott Lynch, Garth Nix, Gardner Dozois - 16H 56M (Book Reserve - Physical and Kindle Books)
-Bobiverse 4 - Heaven's River - Dennis E. Taylor - 16H 57M (Queue - Audible Audiobooks)
 That Used to Be Us - How America Fell Behind in the World It Invented and How We Can Come Back - Thomas L. Friedman - 16H 57M (Book Reserve - Audiobooks)
 Dark Money - The Hidden History of the Billionaires Behind the Rise of the Radical Right - Jane Mayer - 16H 59M (Book Reserve - Audiobooks)
 Aurora - Kim Stanley Robinson - 17H 0M (Book Reserve - Audiobooks)
@@ -717,8 +716,8 @@ Summary Report
  
 Folder totals
 Queue - Current Audiobooks - 173 books - 2244H 26M / 93D 12H 26M
-Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
-Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
+Queue - Audible Audiobooks - 33 books - 507H 6M / 21D 3H 6M
+Completed in 2021 - 44 books - 426H 4M / 17D 18H 4M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
 Completed in 2019 - 52 books - 555H 25M / 23D 3H 25M
 Completed in 2018 - 29 books - 286H 52M / 11D 22H 52M
@@ -736,19 +735,19 @@ Records
 Most books read in a year: 95 completed in 2020
 Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
-207 queued items: 2768H 29M / 115D 8H 29M
+206 queued items: 2751H 32M / 114D 15H 32M
 0 reserve titles are marked as high priority
-25.71% of reserve items are queued
+25.62% of reserve items are queued
  
 All books included in this report: 1181 titles - 14229H 56M / 592D 21H 56M
 Records not found in the lookup file: 0
 No duplicate records found
  
-Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 805 titles - 10043H 0M / 418D 11H 0M
-Average completed per year: 43.9 titles - 488H 53M / 20D 8H 53M
+Total completed since 01/01/2013: 377 titles - 4203H 52M / 175D 3H 52M
+Total remaining in queue and reserve: 804 titles - 10026H 3M / 417D 18H 3M
+Average completed per year: 44.0 titles - 490H 43M / 20D 10H 43M
 Remaining years of reserve material at average yearly pace: 18.3
-Remaining years of reserve material at current year pace: 10.7
+Remaining years of reserve material at current year pace: 10.4
  
-Total time to process all reports: 00:00:01.551 (1.551 seconds)
-Total time including file writes: 00:00:01.551 (1.551 seconds)
+Total time to process all reports: 00:00:07.939 (7.939 seconds)
+Total time including file writes: 00:00:07..94 (7.94 seconds)

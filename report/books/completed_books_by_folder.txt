@@ -1,11 +1,11 @@
-Completed books sorted by folder - 07/26/2021 06:00
+Completed books sorted by folder - 07/27/2021 06:00
 -----------------------------------------------------
  
-Completed in 2021 : 43 books - 409H 7M / 17D 1H 7M
+Completed in 2021 : 44 books - 426H 4M / 17D 18H 4M
 Total Comic Trades : 17
-Average book length : 9H 30M
-Hours read per week : 13H 50M
-On pace to complete 75 books (721H 52M / 30D 1H 52M) by the end of 2021.
+Average book length : 9H 41M
+Hours read per week : 14H 20M
+On pace to complete 77 books (748H 9M / 31D 4H 9M) by the end of 2021.
  
 21 Lessons for the 21st Century - Yuval Noah Harari - 11H 44M
 A People's History of the United States - Howard Zinn - 34H 19M
@@ -13,6 +13,7 @@ Age of Madness 1 - A Little Hatred - Joe Abercrombie - 20H 26M
 Avengers Vol. 7 The Age of Khonshu - 5H 43M
 Batman Fortnite Zero Point - 4H 43M
 Batman White Knight - 7H 13M
+Bobiverse 4 - Heaven's River - Dennis E. Taylor - 16H 57M
 Cosmic Ghost Rider vol 1 - 3H 29M
 Culture 03 - Use of Weapons - Iain M. Banks - 13H 33M
 Dawnshard - Brandon Sanderson - 6H 28M
@@ -438,8 +439,8 @@ Summary Report
  
 Folder totals
 Queue - Current Audiobooks - 173 books - 2244H 26M / 93D 12H 26M
-Queue - Audible Audiobooks - 34 books - 524H 3M / 21D 20H 3M
-Completed in 2021 - 43 books - 409H 7M / 17D 1H 7M
+Queue - Audible Audiobooks - 33 books - 507H 6M / 21D 3H 6M
+Completed in 2021 - 44 books - 426H 4M / 17D 18H 4M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
 Completed in 2019 - 52 books - 555H 25M / 23D 3H 25M
 Completed in 2018 - 29 books - 286H 52M / 11D 22H 52M
@@ -457,19 +458,19 @@ Records
 Most books read in a year: 95 completed in 2020
 Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
-207 queued items: 2768H 29M / 115D 8H 29M
+206 queued items: 2751H 32M / 114D 15H 32M
 0 reserve titles are marked as high priority
-25.71% of reserve items are queued
+25.62% of reserve items are queued
  
 All books included in this report: 1181 titles - 14229H 56M / 592D 21H 56M
 Records not found in the lookup file: 0
 No duplicate records found
  
-Total completed since 01/01/2013: 376 titles - 4186H 55M / 174D 10H 55M
-Total remaining in queue and reserve: 805 titles - 10043H 0M / 418D 11H 0M
-Average completed per year: 43.9 titles - 488H 53M / 20D 8H 53M
+Total completed since 01/01/2013: 377 titles - 4203H 52M / 175D 3H 52M
+Total remaining in queue and reserve: 804 titles - 10026H 3M / 417D 18H 3M
+Average completed per year: 44.0 titles - 490H 43M / 20D 10H 43M
 Remaining years of reserve material at average yearly pace: 18.3
-Remaining years of reserve material at current year pace: 10.7
+Remaining years of reserve material at current year pace: 10.4
  
-Total time to process all reports: 00:00:01.551 (1.551 seconds)
-Total time including file writes: 00:00:01.551 (1.551 seconds)
+Total time to process all reports: 00:00:07.939 (7.939 seconds)
+Total time including file writes: 00:00:07..94 (7.94 seconds)
