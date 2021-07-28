@@ -1,7 +1,7 @@
-Reserved books sorted by name - 07/27/2021 06:00
+Reserved books sorted by name - 07/28/2021 06:00
 -----------------------------------------------------
  
-804 books
+803 books
  
 1-2-3 Magic - Thomas Phelan - 7H 3M (Book Reserve - Audiobooks)
 112263 - Stephen King - 30H 46M (Queue - Current Audiobooks)
@@ -762,7 +762,6 @@ VALIS - Philip K Dick - 8H 44M (Book Reserve - Audiobooks (Need new source))
 Venomverse - 3H 59M (Book Reserve - Comic Trades)
 Venus Plus X - Theodore Sturgeon - 6H 28M (Book Reserve - Audiobooks)
 VocabuLearn® German Complete - 9H 2M (Queue - Current Audiobooks)
-Vote Loki - 3H 44M (Book Reserve - Comic Trades)
 War Machine - Volume 1 Iron Heart - 4H 14M (Book Reserve - Comic Trades)
 Way Station (Here Gather the Stars) - Clifford Simak - 7H 1M (Book Reserve - Audiobooks (Need new source))
 Wayfarers 1 - The Long Way to a Small, Angry Planet - Becky Chambers - 14H 27M (Queue - Current Audiobooks)
@@ -814,7 +813,7 @@ Summary Report
 Folder totals
 Queue - Current Audiobooks - 173 books - 2244H 26M / 93D 12H 26M
 Queue - Audible Audiobooks - 33 books - 507H 6M / 21D 3H 6M
-Completed in 2021 - 44 books - 426H 4M / 17D 18H 4M
+Completed in 2021 - 45 books - 429H 48M / 17D 21H 48M
 Completed in 2020 - 95 books - 918H 55M / 38D 6H 55M
 Completed in 2019 - 52 books - 555H 25M / 23D 3H 25M
 Completed in 2018 - 29 books - 286H 52M / 11D 22H 52M
@@ -824,7 +823,7 @@ Completed in 2015 - 37 books - 457H 16M / 19D 1H 16M
 Completed in 2014 - 27 books - 479H 44M / 19D 23H 44M
 Completed in 2013 - 38 books - 436H 51M / 18D 4H 51M
 Book Reserve - Physical and Kindle Books - 15 books - 190H 35M / 7D 22H 35M
-Book Reserve - Comic Trades - 119 books - 738H 13M / 30D 18H 13M
+Book Reserve - Comic Trades - 118 books - 734H 29M / 30D 14H 29M
 Book Reserve - Audiobooks (Need new source) - 24 books - 356H 45M / 14D 20H 45M
 Book Reserve - Audiobooks - 440 books - 5988H 58M / 249D 12H 58M
  
@@ -834,17 +833,17 @@ Most hours read in a year: 918H 55M / 38D 6H 55M completed in 2020
  
 206 queued items: 2751H 32M / 114D 15H 32M
 0 reserve titles are marked as high priority
-25.62% of reserve items are queued
+25.65% of reserve items are queued
  
 All books included in this report: 1181 titles - 14229H 56M / 592D 21H 56M
 Records not found in the lookup file: 0
 No duplicate records found
  
-Total completed since 01/01/2013: 377 titles - 4203H 52M / 175D 3H 52M
-Total remaining in queue and reserve: 804 titles - 10026H 3M / 417D 18H 3M
-Average completed per year: 44.0 titles - 490H 43M / 20D 10H 43M
-Remaining years of reserve material at average yearly pace: 18.3
-Remaining years of reserve material at current year pace: 10.4
+Total completed since 01/01/2013: 378 titles - 4207H 36M / 175D 7H 36M
+Total remaining in queue and reserve: 803 titles - 10022H 19M / 417D 14H 19M
+Average completed per year: 44.1 titles - 491H 0M / 20D 11H 0M
+Remaining years of reserve material at average yearly pace: 18.2
+Remaining years of reserve material at current year pace: 10.3
  
-Total time to process all reports: 00:00:07.939 (7.939 seconds)
-Total time including file writes: 00:00:07..94 (7.94 seconds)
+Total time to process all reports: 00:00:02.624 (2.624 seconds)
+Total time including file writes: 00:00:02.625 (2.625 seconds)
