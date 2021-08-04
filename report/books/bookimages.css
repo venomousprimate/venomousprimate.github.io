@@ -1,0 +1,10 @@
+body {
+    font-size:1.2em;
+    background-color: #222;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
+}
+
+.content {
+    margin: auto;
+}
