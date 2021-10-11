@@ -3,13 +3,13 @@
 <head>
     <style>
         a:link {
-            color: lightslategrey;
+            color: white;
             background-color: transparent;
             text-decoration: none;
         }
 
         a:visited {
-            color: darkslateblue;
+            color: white;
             background-color: transparent;
             text-decoration: none;
         }
@@ -31,12 +31,24 @@
     <title>Landing Page</title>
 </head>
 <body>
-<div class="content">
-    <BR>
-    <a href="report/books"><img alt="Book Report" src="button_purple_book_640x160.png" width=640 height=160></a>
-    <a href="report/media"><img alt="Jason Media Progress" src="button_purple_media_j_640x160.png" width=640 height=160></a>
-    <a href="report/media/k_progress.html"><img alt="Kerrigan Media Progress" src="button_purple_media_k_640x160.png" width=640 height=160></a>
-    <BR>
+
+<div id="container">
+
+    <div class="button" id="button-1">
+        <div id="slide1"></div>
+        <a href="report/books">Book Report</a>
+    </div>
+
+    <div class="button" id="button-2">
+        <div id="slide2"></div>
+        <a href="report/media">Jason's Media</a>
+    </div>
+
+    <div class="button" id="button-3">
+        <div id="slide3"></div>
+        <a href="report/media/k_progress.html">Kerrigan's Media</a>
+    </div>
+
 </div>
 </body>
 </html>
