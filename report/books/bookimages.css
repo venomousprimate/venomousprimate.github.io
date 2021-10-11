@@ -1,10 +1,358 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
 body {
-    font-size:1.2em;
-    background-color: #222;
-    color: #e6e6e6;
-    border-color: #e6e6e6;
+    background: #222;
+    font-family: 'Raleway', sans-serif;
 }
 
-.content {
-    margin: auto;
+.title {
+    font-size: 2.2em;
+    text-align: center;
+    padding: 30px 0 0 0;
+    color: #EF8354;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+/* Heading */
+h1 {
+    font-size: 1.5em;
+    text-align: center;
+    padding: 70px 0 0 0;
+    color: #EF8354;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+span {
+    border: 2px solid #4F5D75;
+    padding: 10px;
+}
+
+/* Layout Styling */
+#container1 {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+/* Button Styles */
+.button {
+    display: inline-flex;
+    height: 60px;
+    width: 300px;
+    border: 2px solid #BFC0C0;
+    margin: 20px 20px 20px 20px;
+    color: #BFC0C0;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1.4em;
+    letter-spacing: 1.5px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+a {
+    color: #BFC0C0;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+/* Button 1 */
+#button-1 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-1 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide1 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-1:hover #slide1 {
+    left: 0;
+}
+#button-1:hover a {
+    color: #2D3142;
+}
+
+/* Button 2 */
+#button-2 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-2 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide2 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-2:hover #slide2 {
+    left: 0;
+}
+#button-2:hover a {
+    color: #2D3142;
+}
+
+/* Button 3 */
+#button-3 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-3 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide3 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-3:hover #slide3 {
+    left: 0;
+}
+#button-3:hover a {
+    color: #2D3142;
+}
+
+/* Button 4 */
+#button-4 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-4 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide4 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-4:hover #slide4 {
+    left: 0;
+}
+#button-4:hover a {
+    color: #2D3142;
+}
+
+/* Button 5 */
+#button-5 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-5 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide5 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-5:hover #slide5 {
+    left: 0;
+}
+#button-5:hover a {
+    color: #2D3142;
+}
+
+/* Button 6 */
+#button-6 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-6 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide6 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-6:hover #slide6 {
+    left: 0;
+}
+#button-6:hover a {
+    color: #2D3142;
+}
+
+/* Button 7 */
+#button-7 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-7 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide7 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-7:hover #slide7 {
+    left: 0;
+}
+#button-7:hover a {
+    color: #2D3142;
+}
+
+/* Button 8 */
+#button-8 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-8 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide8 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-8:hover #slide8 {
+    left: 0;
+}
+#button-8:hover a {
+    color: #2D3142;
+}
+
+/* Button 9 */
+#button-9 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-9 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide9 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-9:hover #slide9 {
+    left: 0;
+}
+#button-9:hover a {
+    color: #2D3142;
+}
+
+/* Button 10 */
+#button-10 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-10 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide10 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-10:hover #slide10 {
+    left: 0;
+}
+#button-10:hover a {
+    color: #2D3142;
+}
+
+/* Button 11 */
+#button-11 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-11 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide11 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-11:hover #slide11 {
+    left: 0;
+}
+#button-11:hover a {
+    color: #2D3142;
+}
+
+@media screen and (min-width:1000px) {
+    h1 {
+        font-size: 2.2em;
+    }
+    #container {
+        width: 50%;
+    }
 }
