@@ -8,3 +8,12 @@ body {
 .content {
     margin: auto;
 }
+
+label {
+    padding-right: 10px;
+    font-size: 1.2rem;
+}
+
+progress {
+    -webkit-appearance: none;
+}
