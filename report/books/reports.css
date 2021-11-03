@@ -16,4 +16,5 @@ label {
 
 progress {
     -webkit-appearance: none;
+    width:400px;
 }
