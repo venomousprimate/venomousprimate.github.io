@@ -13,7 +13,6 @@ body {
     letter-spacing: 1px;
 }
 
-/* Heading */
 h1 {
     font-size: 1.5em;
     text-align: center;
@@ -28,7 +27,6 @@ span {
     padding: 10px;
 }
 
-/* Layout Styling */
 #container1 {
     width: 100%;
     margin: 0 auto;
@@ -38,8 +36,6 @@ span {
     justify-content: center;
 }
 
-
-/* Button Styles */
 .button {
     display: inline-flex;
     height: 60px;
@@ -322,17 +318,17 @@ a {
     color: #2D3142;
 }
 
-/* Button 11 */
-#button-11 {
+/* Button 2023 */
+#button-2023 {
     position: relative;
     overflow: hidden;
     cursor: pointer;
 }
-#button-11 a {
+#button-2023 a {
     position: relative;
     transition: all .35s ease-Out;
 }
-#slide11 {
+#slide2023 {
     width: 100%;
     height: 100%;
     left: -300px;
@@ -341,10 +337,62 @@ a {
     transition: all .35s ease-Out;
     bottom: 0;
 }
-#button-11:hover #slide11 {
+#button-2023:hover #slide2023 {
     left: 0;
 }
-#button-11:hover a {
+#button-2023:hover a {
+    color: #2D3142;
+}
+
+/* Button 2024 */
+#button-2024 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-2024 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide2024 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-2024:hover #slide2024 {
+    left: 0;
+}
+#button-2024:hover a {
+    color: #2D3142;
+}
+
+/* Button 2025 */
+#button-2025 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-2025 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide2025 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-2025:hover #slide2025 {
+    left: 0;
+}
+#button-2025:hover a {
     color: #2D3142;
 }
 
