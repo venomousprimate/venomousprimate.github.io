@@ -9,3 +9,7 @@ body {
     max-width: 1000px;
     margin: auto;
 }
+
+.content completed {
+    color: dimgray;
+}
