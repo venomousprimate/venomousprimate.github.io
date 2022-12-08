@@ -15,6 +15,6 @@ label {
 }
 
 progress {
-    -webkit-appearance: none;
+    -webkit-appearance: progress-bar;
     width:400px;
 }
