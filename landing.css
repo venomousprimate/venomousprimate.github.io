@@ -34,6 +34,14 @@ span {
     flex-wrap: wrap;
     justify-content: center;
 }
+#container3 {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 /* Button Styles */
 .button {
@@ -159,6 +167,58 @@ a {
     left: 0;
 }
 #button-4:hover a {
+    color: #2D3142;
+}
+
+/* Button 5 */
+#button-5 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-5 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide5 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-5:hover #slide5 {
+    left: 0;
+}
+#button-5:hover a {
+    color: #2D3142;
+}
+
+/* Button 6 */
+#button-6 {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#button-6 a {
+    position: relative;
+    transition: all .35s ease-Out;
+}
+#slide6 {
+    width: 100%;
+    height: 100%;
+    left: -300px;
+    background: #BFC0C0;
+    position: absolute;
+    transition: all .35s ease-Out;
+    bottom: 0;
+}
+#button-6:hover #slide6 {
+    left: 0;
+}
+#button-6:hover a {
     color: #2D3142;
 }
 
