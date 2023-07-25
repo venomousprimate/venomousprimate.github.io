@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Altitude</title>
+  <style>
+    a:link {
+      color: white;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: white;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: darkslategray;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    a:active {
+      color: slateblue;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      color: white;
+    }
+  </style>
+  <link rel="stylesheet" href="index.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+<h1>Altitude</h1>
+<!--<p>Click the button below to get your altitude:</p>-->
+<!--<button onclick="getUserAltitude()">Get Altitude</button>-->
+
+<div id="container1">
+  <div class="button" id="button-1" onclick="getUserAltitude()">
+    <div id="slide1"></div>
+    Get Altitude
+  </div>
+</div>
+<p id="altitude"></p>
+
+<script>
+  function getUserAltitude() {
+    if ('geolocation' in navigator) {
+      navigator.geolocation.getCurrentPosition(
+              (position) => {
+                const altitude = position.coords.altitude;
+                if (altitude !== null) {
+                  document.getElementById('altitude').innerText = `Your altitude is ${altitude} meters above sea level.`;
+                } else {
+                  document.getElementById('altitude').innerText = 'Altitude data not available.';
+                }
+              },
+              (error) => {
+                console.error('Error getting user location:', error.message);
+                document.getElementById('altitude').innerText = 'Error getting user location.';
+              }
+      );
+    } else {
+      document.getElementById('altitude').innerText = 'Geolocation not supported by your browser.';
+    }
+  }
+</script>
+</body>
+</html>
