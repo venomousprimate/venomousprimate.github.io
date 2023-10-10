@@ -11,10 +11,11 @@ body {
 
 label {
     padding-right: 10px;
-    font-size: 1.2rem;
+    font-size: 3.2rem;
 }
 
 progress {
     -webkit-appearance: progress-bar;
-    width:400px;
+    width:800px;
+    height:100px;
 }
