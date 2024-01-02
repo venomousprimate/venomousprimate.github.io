@@ -1,0 +1,31 @@
+body {
+    font-size:1.2em;
+    background-color: #222;
+    color: lightslategrey;
+    border-color: #e6e6e6;
+}
+
+.content {
+    margin: auto;
+    text-align: center;
+}
+
+label {
+    padding-right: 10px;
+    font-size: 3.2rem;
+}
+
+progress {
+    -webkit-appearance: progress-bar;
+    width:800px;
+    height:100px;
+}
+
+.title {
+    font-size: 2.2em;
+    text-align: center;
+    padding: 30px 0 0 0;
+    color: #EF8354;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
