@@ -1,5 +1,5 @@
 body {
-    font-size:1.8em;
+    font-size: clamp(2rem, 5vw+ 1rem, 7rem);
     background-color: #222;
     color: lightslategrey;
     border-color: #e6e6e6;
