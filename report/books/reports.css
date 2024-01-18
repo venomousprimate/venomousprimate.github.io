@@ -3,6 +3,7 @@ body {
     background-color: #222;
     color: lightslategrey;
     border-color: #e6e6e6;
+    width:800px;
 }
 
 .content {
