@@ -8,7 +8,7 @@ body {
 .content {
     margin: auto;
     white-space: nowrap;
-    overflow: auto;
+    overflow: visible;
 }
 
 label {
