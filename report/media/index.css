@@ -8,6 +8,7 @@ body {
 .content {
     max-width: 1000px;
     margin: auto;
+    text-align: left;
 }
 
 .content completed {
