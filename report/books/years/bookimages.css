@@ -20,6 +20,7 @@ h1 {
     color: #EF8354;
     font-weight: 300;
     letter-spacing: 1px;
+    text-decoration: underline;
 }
 
 span {
