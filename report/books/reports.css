@@ -15,9 +15,3 @@ label {
     padding-right: 10px;
     font-size: 3.2rem;
 }
-
-progress {
-    -webkit-appearance: progress-bar;
-    width:800px;
-    height:100px;
-}
