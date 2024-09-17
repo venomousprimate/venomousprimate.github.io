@@ -16,8 +16,41 @@ label {
     font-size: 3.2rem;
 }
 
+/* Style for the progress container */
 progress {
-    -webkit-appearance: progress-bar;
-    width:800px;
-    height:60px;
+    -webkit-appearance: none; /* Remove default styling */
+    appearance: none;
+    width: 800px;
+    height: 30px;
+    background-color: #333; /* Background color for the progress bar */
+    border-radius: 30px; /* Rounded edges for the container */
+    overflow: hidden; /* Ensure rounded corners are respected */
+}
+
+/* Style for the progress value */
+progress::-webkit-progress-bar {
+    background-color: #333; /* Background color */
+    border-radius: 30px; /* Rounded edges for the progress bar */
+}
+
+progress::-webkit-progress-value {
+    background-color: #EF8354; /* Color of the progress */
+    border-radius: 30px; /* Rounded edges for the progress value */
+}
+
+/* For Firefox */
+progress::-moz-progress-bar {
+    background-color: #EF8354; /* Color of the progress */
+    border-radius: 30px; /* Rounded edges for the progress value */
+}
+
+/* For Edge */
+progress::-ms-fill {
+    background-color: #333; /* Background color */
+    border-radius: 30px; /* Rounded edges for the container */
+}
+
+progress::-ms-fill:before {
+    background-color: #EF8354; /* Color of the progress */
+    border-radius: 30px; /* Rounded edges for the progress value */
 }
